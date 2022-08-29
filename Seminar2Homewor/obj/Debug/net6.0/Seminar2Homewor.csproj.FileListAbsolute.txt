@@ -1,0 +1,15 @@
+C:\Users\Галина Борисовна\Desktop\SEMINARSC#\Seminar2Homewor\bin\Debug\net6.0\Seminar2Homewor.exe
+C:\Users\Галина Борисовна\Desktop\SEMINARSC#\Seminar2Homewor\bin\Debug\net6.0\Seminar2Homewor.deps.json
+C:\Users\Галина Борисовна\Desktop\SEMINARSC#\Seminar2Homewor\bin\Debug\net6.0\Seminar2Homewor.runtimeconfig.json
+C:\Users\Галина Борисовна\Desktop\SEMINARSC#\Seminar2Homewor\bin\Debug\net6.0\Seminar2Homewor.dll
+C:\Users\Галина Борисовна\Desktop\SEMINARSC#\Seminar2Homewor\bin\Debug\net6.0\Seminar2Homewor.pdb
+C:\Users\Галина Борисовна\Desktop\SEMINARSC#\Seminar2Homewor\obj\Debug\net6.0\Seminar2Homewor.csproj.AssemblyReference.cache
+C:\Users\Галина Борисовна\Desktop\SEMINARSC#\Seminar2Homewor\obj\Debug\net6.0\Seminar2Homewor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Галина Борисовна\Desktop\SEMINARSC#\Seminar2Homewor\obj\Debug\net6.0\Seminar2Homewor.AssemblyInfoInputs.cache
+C:\Users\Галина Борисовна\Desktop\SEMINARSC#\Seminar2Homewor\obj\Debug\net6.0\Seminar2Homewor.AssemblyInfo.cs
+C:\Users\Галина Борисовна\Desktop\SEMINARSC#\Seminar2Homewor\obj\Debug\net6.0\Seminar2Homewor.csproj.CoreCompileInputs.cache
+C:\Users\Галина Борисовна\Desktop\SEMINARSC#\Seminar2Homewor\obj\Debug\net6.0\Seminar2Homewor.dll
+C:\Users\Галина Борисовна\Desktop\SEMINARSC#\Seminar2Homewor\obj\Debug\net6.0\refint\Seminar2Homewor.dll
+C:\Users\Галина Борисовна\Desktop\SEMINARSC#\Seminar2Homewor\obj\Debug\net6.0\Seminar2Homewor.pdb
+C:\Users\Галина Борисовна\Desktop\SEMINARSC#\Seminar2Homewor\obj\Debug\net6.0\Seminar2Homewor.genruntimeconfig.cache
+C:\Users\Галина Борисовна\Desktop\SEMINARSC#\Seminar2Homewor\obj\Debug\net6.0\ref\Seminar2Homewor.dll
