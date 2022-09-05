@@ -1,0 +1,15 @@
+C:\Users\Галина Борисовна\Desktop\SEMINARSC#\Seminar4HomeWork\bin\Debug\net6.0\Seminar4HomeWork.exe
+C:\Users\Галина Борисовна\Desktop\SEMINARSC#\Seminar4HomeWork\bin\Debug\net6.0\Seminar4HomeWork.deps.json
+C:\Users\Галина Борисовна\Desktop\SEMINARSC#\Seminar4HomeWork\bin\Debug\net6.0\Seminar4HomeWork.runtimeconfig.json
+C:\Users\Галина Борисовна\Desktop\SEMINARSC#\Seminar4HomeWork\bin\Debug\net6.0\Seminar4HomeWork.dll
+C:\Users\Галина Борисовна\Desktop\SEMINARSC#\Seminar4HomeWork\bin\Debug\net6.0\Seminar4HomeWork.pdb
+C:\Users\Галина Борисовна\Desktop\SEMINARSC#\Seminar4HomeWork\obj\Debug\net6.0\Seminar4HomeWork.csproj.AssemblyReference.cache
+C:\Users\Галина Борисовна\Desktop\SEMINARSC#\Seminar4HomeWork\obj\Debug\net6.0\Seminar4HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Галина Борисовна\Desktop\SEMINARSC#\Seminar4HomeWork\obj\Debug\net6.0\Seminar4HomeWork.AssemblyInfoInputs.cache
+C:\Users\Галина Борисовна\Desktop\SEMINARSC#\Seminar4HomeWork\obj\Debug\net6.0\Seminar4HomeWork.AssemblyInfo.cs
+C:\Users\Галина Борисовна\Desktop\SEMINARSC#\Seminar4HomeWork\obj\Debug\net6.0\Seminar4HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Галина Борисовна\Desktop\SEMINARSC#\Seminar4HomeWork\obj\Debug\net6.0\Seminar4HomeWork.dll
+C:\Users\Галина Борисовна\Desktop\SEMINARSC#\Seminar4HomeWork\obj\Debug\net6.0\refint\Seminar4HomeWork.dll
+C:\Users\Галина Борисовна\Desktop\SEMINARSC#\Seminar4HomeWork\obj\Debug\net6.0\Seminar4HomeWork.pdb
+C:\Users\Галина Борисовна\Desktop\SEMINARSC#\Seminar4HomeWork\obj\Debug\net6.0\Seminar4HomeWork.genruntimeconfig.cache
+C:\Users\Галина Борисовна\Desktop\SEMINARSC#\Seminar4HomeWork\obj\Debug\net6.0\ref\Seminar4HomeWork.dll
