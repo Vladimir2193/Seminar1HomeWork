@@ -5,8 +5,8 @@
 // // 1 -3,3 8 -9,9
 // // 8 7,8 -7,1 9
 
-// // Используем две функции для формирования двумерного массива и его заполнения.
-// // Для заполнения массива случайными вещесственными числами нужного диапазона используем NextDouble()
+// Используем две функции для формирования двумерного массива и его заполнения.
+// Для заполнения массива случайными вещесственными числами нужного диапазона используем NextDouble()
 
 // double[,] CreateRandom2dArray(int rows,int cols){
 //     double[,] array = new double[rows,cols];
@@ -31,10 +31,6 @@
 // int rows = Convert.ToInt32(Console.ReadLine());
 // Console.Write("Input numb of cols: ");
 // int cols = Convert.ToInt32(Console.ReadLine());
-// // Console.Write("Input numb of min: ");
-// // double min = Convert.ToDouble(Console.ReadLine());
-// // Console.Write("Input numb of max: ");
-// // int max = Convert.ToDouble(Console.ReadLine());
 
 // double[,] array = CreateRandom2dArray(rows,cols);
 // Show2dArray(array);
@@ -88,15 +84,14 @@
 // int min = Convert.ToInt32(Console.ReadLine());
 // Console.Write("Input numb of max: ");
 // int max = Convert.ToInt32(Console.ReadLine());
+// int[,] array = CreateRandom2dArray(rows,cols,min,max);
+// Show2dArray(array);
 // Console.WriteLine();
+
 // Console.Write("Input index of rows: ");
 // int k = Convert.ToInt32(Console.ReadLine());
 // Console.Write("Input index of cols: ");
 // int l = Convert.ToInt32(Console.ReadLine());
-
-// int[,] array = CreateRandom2dArray(rows,cols,min,max);
-// Show2dArray(array);
-// Console.WriteLine();
 // EssenceNumbers(array, k, l);
 
 // // Вывод результата на экран
